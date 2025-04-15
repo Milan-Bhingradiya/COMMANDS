@@ -1,5 +1,8 @@
 # DB
 
+![Uploading image.png…]()
+
+
 # 🚀 Basic PostgreSQL Commands to Explore Local Database
 
 Once you're connected to PostgreSQL (`psql`), you can use the following commands to explore your databases, tables, and schemas.
