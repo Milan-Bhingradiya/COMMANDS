@@ -1,7 +1,6 @@
 # DB
 
-![Uploading image.png…]()
-
+C:\Users\DELL>psql -U postgres -h localhost -p 5555 -d test    
 
 # 🚀 Basic PostgreSQL Commands to Explore Local Database
 
